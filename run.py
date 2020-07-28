@@ -1,6 +1,6 @@
-import CNA6_data_processing
-import CNA6_graph
-import os
+import data_processing
+import visualization
+
 
 line_6_1 = 'E66C CNA6-1'
 filename_6_1 = r"C:\\Users\\lg\\Desktop\\정지후가동\\CNA6\\6-1\\"
