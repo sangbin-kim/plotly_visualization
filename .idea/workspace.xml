@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c452aed3-c62c-4eab-85e7-1dfaf2e3a3af" name="Default Changelist" comment="First commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="2100e358-c8f9-4286-a4c9-e53aac3ee7be" />
+  <component name="ProjectId" id="1fJjAXjOwyOgxKsjF4sCBaxp4fX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c452aed3-c62c-4eab-85e7-1dfaf2e3a3af" name="Default Changelist" comment="" />
+      <created>1595942946348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595942946348</updated>
+      <workItem from="1595942947491" duration="244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="127" key="#Deployment" timestamp="1595943115970">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="127" key="#Deployment/0.23.1440.877@0.23.1440.877" timestamp="1595943115970" />
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595943037819">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1595943037819" />
+    <state x="309" y="64" key="CommitChangelistDialog2" timestamp="1595943159609">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="309" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1595943159609" />
+    <state x="144" y="99" key="DiffContextDialog" timestamp="1595943136233">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="144" y="99" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1595943136233" />
+    <state x="509" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595943032359">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="509" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1595943032359" />
+  </component>
+</project>

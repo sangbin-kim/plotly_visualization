@@ -2,21 +2,21 @@ import data_processing
 import visualization
 
 
-line_6_1 = 'E66C CNA6-1'
-filename_6_1 = r"C:\\Users\\lg\\Desktop\\정지후가동\\CNA6\\6-1\\"
-csv_filename_6_1 = r'D:\#.Secure Work Folder\정지후가동\CNA6\lami vision data\6-1.csv'
+line_6_1 = '6-1'
+filename_6_1 = r"C:\\6-1\\"
+csv_filename_6_1 = r'6-1.csv'
 
-line_6_2= 'E66C CNA6-2'
-filename_6_2 = r"C:\\Users\\lg\\Desktop\\정지후가동\\CNA6\\6-2\\"
-csv_filename_6_2 = r'D:\#.Secure Work Folder\정지후가동\CNA6\lami vision data\6-2.csv'
+line_6_2= '6-2'
+filename_6_2 = r"C:\\6-2\\"
+csv_filename_6_2 = r'\6-2.csv'
 
-line_6_3 = 'E66C CNA6-3'
-filename_6_3 = r"C:\\Users\\lg\\Desktop\\정지후가동\\CNA6\\6-3\\"
-csv_filename_6_3 = r'D:\#.Secure Work Folder\정지후가동\CNA6\lami vision data\6-3.csv'
+line_6_3 = '6-3'
+filename_6_3 = r"C:\\6-3\\"
+csv_filename_6_3 = r'\6-3.csv'
 
-line_6_4 = 'E66C CNA6-4'
-filename_6_4 = r"C:\\Users\\lg\\Desktop\\정지후가동\\CNA6\\6-4\\"
-csv_filename_6_4 = r'D:\#.Secure Work Folder\정지후가동\CNA6\lami vision data\6-4.csv'
+line_6_4 = '6-4'
+filename_6_4 = r"C:\\6-4\\"
+csv_filename_6_4 = r'\6-4.csv'
 
 
 lines = [line_6_1, line_6_2, line_6_3, line_6_4]
